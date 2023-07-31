@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/atom-providers/http"
 	jsonpatch "github.com/evanphx/json-patch"
 	"github.com/gofiber/fiber/v2"
-	"github.com/rogeecn/atom-addons/providers/http"
 	"github.com/rogeecn/atom/container"
 	"github.com/rogeecn/atom/utils/opt"
 	fiberSwagger "github.com/swaggo/fiber-swagger"
