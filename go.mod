@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/evanphx/json-patch v0.5.2
 	github.com/gofiber/fiber/v2 v2.47.0
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 	github.com/swaggo/fiber-swagger v1.3.0
 	github.com/swaggo/swag v1.16.1
 )
